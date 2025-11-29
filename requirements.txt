@@ -1,0 +1,6 @@
+openai==2.8.1
+mcp==1.22.0
+python-telegram-bot==21.7
+python-dotenv==1.0.0
+aiohttp==3.11.7
+requests==2.32.3
