@@ -12,7 +12,7 @@ load_dotenv()
 
 # Configuration
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-BANK_MCP_URL = "http://localhost:3000/sse"
+BANK_MCP_URL = "https://disha-bank-mcp.onrender.com/sse"
 
 # System prompt for Disha
 DISHA_SYSTEM_PROMPT = """
